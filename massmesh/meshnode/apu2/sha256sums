@@ -1,0 +1,7 @@
+4e2f5861fc4ed775f0a1f421a76eb1e63b416593eb3b828cc6e3a9efab382d72 *openwrt-massmesh-meshnode-x86-64-combined-ext4.img.gz
+597750bb3fd72cf958b68c1ceb81017af22742d961c9f91e705e90197c031915 *openwrt-massmesh-meshnode-x86-64-combined-squashfs.img.gz
+57ae7d716d2e8e8424ad44cdb40a03e115a2b24c4acb7fee072cf88ef4fc5387 *openwrt-massmesh-meshnode-x86-64-generic-rootfs.tar.gz
+f37867084362f9825dec3de7948e8c8556dc36dbfb7ebd1fba476e1bdc38be04 *openwrt-massmesh-meshnode-x86-64-generic.manifest
+b8fd33d1203ee3c67a32ae88f82dcdd4edd6775e329aebfef2674fd5c18cfb1f *openwrt-massmesh-meshnode-x86-64-rootfs-ext4.img.gz
+7b5dd3b98c9ae2c87b8736fcd81104ac949bdf6ff69d40263207f2f0c70e2dd3 *openwrt-massmesh-meshnode-x86-64-rootfs-squashfs.img.gz
+7d56646c1b355e9a95a09749c499586f126554a770808138d41e901a246736d2 *openwrt-massmesh-meshnode-x86-64-vmlinuz

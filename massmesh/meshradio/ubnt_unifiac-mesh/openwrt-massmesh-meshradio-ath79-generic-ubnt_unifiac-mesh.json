@@ -1,0 +1,25 @@
+{
+  "id": "ubnt_unifiac-mesh",
+  "image_prefix": "openwrt-massmesh-meshradio-ath79-generic-ubnt_unifiac-mesh",
+  "images": [
+    {
+      "name": "openwrt-massmesh-meshradio-ath79-generic-ubnt_unifiac-mesh-squashfs-sysupgrade.bin",
+      "sha256": "d5263fb3a8a05138a48cea40e11000da9fc6cd89e07997d44f7b59ccfd2e4d92",
+      "type": "sysupgrade"
+    }
+  ],
+  "metadata_version": 1,
+  "supported_devices": [
+    "ubnt,unifiac-mesh",
+    "ubnt-unifiac-mesh"
+  ],
+  "target": "ath79/generic",
+  "titles": [
+    {
+      "model": "UniFi AC-Mesh",
+      "vendor": "Ubiquiti"
+    }
+  ],
+  "version_commit": "r11873-33f87d2ef6",
+  "version_number": "SNAPSHOT"
+}

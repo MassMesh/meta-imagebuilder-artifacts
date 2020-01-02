@@ -1,0 +1,39 @@
+{
+  "id": "rpi-4",
+  "image_prefix": "openwrt-massmesh-meshnode-brcm2708-bcm2711-rpi-4",
+  "images": [
+    {
+      "name": "openwrt-massmesh-meshnode-brcm2708-bcm2711-rpi-4-squashfs-factory.img.gz",
+      "sha256": "b6b7ec2a4dca44e6f9eaa6a997c2c767632c3e7342abf35c991de3933bab4a94",
+      "type": "factory"
+    },
+    {
+      "name": "openwrt-massmesh-meshnode-brcm2708-bcm2711-rpi-4-ext4-factory.img.gz",
+      "sha256": "81c5a3a903c64de54c52eb77aee8ef998e366af214218d44d72ed20e536b01e2",
+      "type": "factory"
+    },
+    {
+      "name": "openwrt-massmesh-meshnode-brcm2708-bcm2711-rpi-4-squashfs-sysupgrade.img.gz",
+      "sha256": "985ce6deb995f231681107e36169b103fff3a781001980f8501e0da557af506c",
+      "type": "sysupgrade"
+    },
+    {
+      "name": "openwrt-massmesh-meshnode-brcm2708-bcm2711-rpi-4-ext4-sysupgrade.img.gz",
+      "sha256": "b4824c6d87aaec9eef05500051b9b9d0f58410967669f83c14686ac8df56ca12",
+      "type": "sysupgrade"
+    }
+  ],
+  "metadata_version": 1,
+  "supported_devices": [
+    "raspberrypi,4-model-b"
+  ],
+  "target": "brcm2708/bcm2711",
+  "titles": [
+    {
+      "model": "4B",
+      "vendor": "Raspberry Pi"
+    }
+  ],
+  "version_commit": "r11873-33f87d2ef6",
+  "version_number": "SNAPSHOT"
+}

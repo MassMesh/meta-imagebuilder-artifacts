@@ -1,0 +1,29 @@
+{
+  "id": "ubnt_nanostation-ac-loco",
+  "image_prefix": "openwrt-massmesh-meshradio-ath79-generic-ubnt_nanostation-ac-loco",
+  "images": [
+    {
+      "name": "openwrt-massmesh-meshradio-ath79-generic-ubnt_nanostation-ac-loco-squashfs-sysupgrade.bin",
+      "sha256": "486f790aa854ba97f73533411fcaa6e863325c49a67aa7dda2a5ce98f5d2ce64",
+      "type": "sysupgrade"
+    },
+    {
+      "name": "openwrt-massmesh-meshradio-ath79-generic-ubnt_nanostation-ac-loco-squashfs-factory.bin",
+      "sha256": "236d706843326fa080db4d1361db81eaaea54f03c24b1bbca79fe5ca1362fb33",
+      "type": "factory"
+    }
+  ],
+  "metadata_version": 1,
+  "supported_devices": [
+    "ubnt,nanostation-ac-loco"
+  ],
+  "target": "ath79/generic",
+  "titles": [
+    {
+      "model": "Nanostation AC loco",
+      "vendor": "Ubiquiti"
+    }
+  ],
+  "version_commit": "r11873-33f87d2ef6",
+  "version_number": "SNAPSHOT"
+}
